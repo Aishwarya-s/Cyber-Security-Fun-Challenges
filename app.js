@@ -93,7 +93,7 @@ const gameData = {
     {
       "word": "malware",
       "symbols": "🦠 💻 ☠️ 🚨",
-      "hint": "Malicious software that harms your computer."
+      "hint": "Seven letters. Malicious software that harms your computer."
     },
     {
       "word": "phishing",
